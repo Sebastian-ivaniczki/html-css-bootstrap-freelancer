@@ -1,0 +1,47 @@
+/* utilities */
+.bg-green{
+    background-color: rgb(26,188,156);
+}
+
+[class*='container']{
+    border: 1px dashed black;
+}
+
+[class*='col']{
+    border: 1px dashed red;
+    min-height: 100px;
+}
+
+[class*='card']{
+    border: 1px dashed greenyellow ;
+}
+
+/* header */
+
+header{
+    min-height: 100px;
+    background-color: #2C3E50;
+    color: white;
+}
+
+/* jumbotron */
+
+.jumbotron{
+    background-color: #1ABC9C;
+
+    min-height: 400px;
+}
+
+/* footer */
+
+.footer-top{
+    background-color: #3A546D;
+    min-height: 300px; color: white;
+}
+
+.footer-botom{
+    background-color: #2C3E50;
+    min-height: 100px;
+    color: white;
+}
+
