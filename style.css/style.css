@@ -3,19 +3,28 @@
     background-color: rgb(26,188,156);
 }
 
-[class*='container']{
-    border: 1px dashed black;
-}
-
-[class*='col']{
-    border: 1px dashed red;
-    
-}
 
 .custom-color-w{
     color: #fff;
 }
 
+.bg-withe{
+    background-color: #fff;
+}
+.interline-decoration{
+    height: 50px;
+}
+
+.line{
+    height: 3px;
+    width: 50px;
+    border-radius: 10px;
+    margin: 0 10px;
+}
+
+.fa-star{
+    font-size: 30px;
+}
 /* header */
 
 header{
@@ -34,9 +43,12 @@ header{
 .jumbotron{
     background-color: #1ABC9C;
 
-    min-height: 400px;
+    height: 450px;
 }
 
+.jumbotron-img{
+    width: 200px;
+}
 /* footer */
 
 .footer-top{
