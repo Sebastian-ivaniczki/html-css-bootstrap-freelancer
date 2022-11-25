@@ -11,6 +11,10 @@
 .bg-withe{
     background-color: #fff;
 }
+
+.bg-dark-blue{
+    background-color: #2C3E50;
+}
 .interline-decoration{
     height: 50px;
 }
@@ -49,6 +53,14 @@ header{
 .jumbotron-img{
     width: 200px;
 }
+
+/* main */
+
+/* portfolio */
+.portfolio-img{
+    
+}
+
 /* footer */
 
 .footer-top{
