@@ -9,20 +9,25 @@
 
 [class*='col']{
     border: 1px dashed red;
-    min-height: 100px;
+    
 }
 
-[class*='card']{
-    border: 1px dashed greenyellow ;
+.custom-color-w{
+    color: #fff;
 }
 
 /* header */
 
 header{
-    min-height: 100px;
+    height: 100px;
     background-color: #2C3E50;
-    color: white;
+    
 }
+
+.navbar-toggler-icon{
+    filter: invert(1);
+}
+
 
 /* jumbotron */
 
